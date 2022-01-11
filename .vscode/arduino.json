@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:micro",
+    "programmer": "arduino:avrispmkii",
+    "output": "/home/cole/X/classes/welder/build",
+    "port": "COM9",
+    "sketch": "welder2.ino"
+}
